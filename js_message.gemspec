@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.name        = "js_message"
   s.version     = JsMessage::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Peter Bui"]
-  s.email       = ["peter@paydrotalks.com"]
-  s.homepage    = "http://github.com/paydro/js_message"
+  s.authors     = ["Dafeng Guo"]
+  s.email       = ["dafeng@striking.ly"]
+  s.homepage    = "https://github.com/dfguo/js_message.git"
   s.summary     = %q{Pass structured json messages between html and a rails application}
   s.description = %q{Pass structured json messages between html and a rails application}
 
