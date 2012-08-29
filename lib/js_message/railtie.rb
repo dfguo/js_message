@@ -9,11 +9,6 @@ module JsMessage
       end
 
       Mime::Type.register "application/jsm", :jsm
-
-    end
-
-    rake_tasks do
-      load "js_message/tasks.rake"
     end
   end
 end
